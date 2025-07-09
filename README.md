@@ -9,6 +9,3 @@ A simple and responsive web-based note-taking application that helps you organiz
 - Notes stored in the browser using `localStorage` (no backend required)
 - Fully responsive design for mobile and desktop use
 - Stylish UI with custom icons for interaction
-
-## 📂 Project Structure
-Notes-App/ ├── index.html      // Main HTML layout ├── style.css       // Styling for the app ├── script.js       // App logic and interactivity ├── create.png      // UI icon asset ├── bin.png         // Trash/delete icon ├── notes.png       // Notes icon or illustration
